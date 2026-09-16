@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve"
+  },
+  "include": ["components/*/", "app/*/", "stories/*/", "next-env.d.ts"]
+}
